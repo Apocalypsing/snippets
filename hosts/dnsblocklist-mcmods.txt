@@ -1,0 +1,18 @@
+# Domain blocklist for sketchy Minecraft mod sites
+# For use with any DNS-based domain blocking solution
+# Supports both IPv4 and IPv6
+# Last updated: 2020-10-25 18:29 UTC
+
+:: 9minecraft.net www.9minecraft.net
+:: www.dl.9minecraft.net www.dl1.9minecraft.net www.dl2.9minecraft.net www.dl3.9minecraft.net www.dl4.9minecraft.net www.dl5.9minecraft.net www.dl6.9minecraft.net
+:: www.files.9minecraft.net www.files1.9minecraft.net www.files2.9minecraft.net www.files3.9minecraft.net www.files4.9minecraft.net
+:: mc-mod.net www.mc-mod.net
+:: www.download.mc-mod.net www.files.mc-mod.net
+:: www.files.mc-mod.net
+
+0.0.0.0 9minecraft.net www.9minecraft.net
+0.0.0.0 www.dl.9minecraft.net www.dl1.9minecraft.net www.dl2.9minecraft.net www.dl3.9minecraft.net www.dl4.9minecraft.net www.dl5.9minecraft.net www.dl6.9minecraft.net
+0.0.0.0 www.files.9minecraft.net www.files1.9minecraft.net www.files2.9minecraft.net www.files3.9minecraft.net www.files4.9minecraft.net
+0.0.0.0 mc-mod.net www.mc-mod.net
+0.0.0.0 www.download.mc-mod.net www.files.mc-mod.net
+0.0.0.0 www.files.mc-mod.net
